@@ -3,17 +3,16 @@ import React from "react";
 
 export const Gallery = (props) => {
   return (
-    <div id="portfolio" className="text-center">
+    <div id="gallery" className="text-center">
       <div className="container">
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            A collection of photos that were taken in Queen's University Belfast.
           </p>
         </div>
         <div className="row">
-          <div className="portfolio-items">
+          <div className="gallery-items">
             {props.data
               ? props.data.map((d, i) => (
                   <div
@@ -22,7 +21,6 @@ export const Gallery = (props) => {
                   >
                     <Image
                       title={d.title}
-                      largeImage={d.largeImage}
                       smallImage={d.smallImage}
                     />
                   </div>

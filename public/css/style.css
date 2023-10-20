@@ -21,8 +21,8 @@ h2 {
   color: #333;
 }
 h3 {
-  font-size: 20px;
-  font-weight: 600;
+  font-size: 30px;
+  font-weight: 800;
   color: #333;
 }
 h4 {
@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/intro-bkg.gif) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -268,6 +268,15 @@ header .intro-text {
   font-size: 22px;
   margin: 0 0 20px;
 }
+#about .header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+#about h3.interests-text-2 {
+  padding-right: 45px;
+}
+
 #about h2 {
   position: relative;
   margin-bottom: 15px;
@@ -307,19 +316,19 @@ header .intro-text {
   line-height: 24px;
   margin: 30px 0;
 }
-/* Services Section */
-#services {
+/* CV Section */
+#cv {
   padding: 100px 0;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: #fff;
 }
-#services .service-desc {
+#cv .service-desc {
   margin: 10px 10px 20px;
 }
-#services h2 {
+#cv h2 {
   color: #fff;
 }
-#services .section-title h2::after {
+#cv .section-title h2::after {
   position: absolute;
   content: "";
   background: rgba(255, 255, 255, 0.3);
@@ -329,7 +338,7 @@ header .intro-text {
   margin-left: -30px;
   left: 50%;
 }
-#services i.fa {
+#cv i.fa {
   font-size: 42px;
   width: 120px;
   height: 120px;
@@ -339,19 +348,56 @@ header .intro-text {
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
-#services h3 {
+#cv h3 {
   font-weight: 500;
   padding: 5px 0;
   color: #fff;
 }
-#services p {
+#cv p {
   color: rgba(255, 255, 255, 0.75);
 }
-#services .service-desc {
+#cv .service-desc {
   margin-bottom: 40px;
 }
+#cv .btn-custom {
+  margin: 30px 0;
+  background: transparent;
+  border: 2px solid #fff;
+}
+#cv .btn-custom:hover {
+  color: #1f386e;
+  background: #fff;
+}
+
+#cv #ResumeContainer {
+margin: auto;
+width: 98%;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+#cv.PDFDocument {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+#cv .PDFPage {
+box-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
+}
+
+#cv .PDFPageOne {
+margin-bottom: 25px;
+}
+
+#cv .PDFPage > canvas {
+max-width: 100%;
+height: auto !important;
+}
+
 /* Portfolio Section */
-#portfolio {
+#gallery {
   padding: 100px 0;
 }
 .portfolio-item {
@@ -439,6 +485,38 @@ header .intro-text {
   font-weight: 600;
   color: #666;
 }
+
+/* Timeline Section */
+#timeline {
+  padding: 100px 0;
+  background: #f6f6f6;
+}
+#timeline i {
+  color: #e6e6e6;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+#timeline .description-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#timeline .description {
+  flex: 1;
+}
+
+#timeline .image {
+  flex: 1;
+  margin-left: 20px; // Adjust the margin as needed to control the spacing
+}
+
+#timeline .timeline-image {
+  width: 400px; /* Adjust the width as per your preference */
+  height: auto; /* Automatically adjust the height to maintain the image's aspect ratio */
+}
+
 /* Team Section */
 #team {
   padding: 100px 0;

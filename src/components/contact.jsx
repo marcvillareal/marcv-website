@@ -126,18 +126,18 @@ export const Contact = (props) => {
               <div className="social">
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : "/"}>
-                      <i className="fa fa-facebook"></i>
+                    <a href={props.data ? props.data.emailaddress : "/"}>
+                      <i className="fa fa-envelope"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : "/"}>
-                      <i className="fa fa-twitter"></i>
+                    <a href={props.data ? props.data.github : "/"}>
+                      <i className="fa fa-github"></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
+                    <a href={props.data ? props.data.linkedin : "/"}>
+                      <i className="fa fa-linkedin"></i>
                     </a>
                   </li>
                 </ul>
@@ -149,7 +149,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
+            &copy; 2023 Marc Villareal. Inspired by Issaaf Kattan's <a href="https://github.com/issaafalkattan/React-Landing-Page-Template" rel="nofollow noopener noreferrer" target="_blank">React Landing Page.</a> Design by{" "}
             <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a>

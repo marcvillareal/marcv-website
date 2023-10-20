@@ -1,68 +1,45 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "WELCOME",
+    "paragraph": "My name is Marc Villareal. I am a 3rd year BEng Software Engineering Student in Queen's University Belfast..."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "I'm originally from Cavite, Philippines but my family emigrated to Belfast, Northern Ireland when I was two years old. I'm studying BEng Software Engineering at Queen's University Belfast. I was Treasurer of Queen's Filipino Society for two years and an hall of fame member for Queen's Esport's Society.",
+    "paragraph2": "I'm always looking for ways to develop myself, and I'm fascinated by new technologies and love coding. Working in a fast-paced, lively workplace has helped me enhance my teamwork and communication abilities while also providing me with customer service experience.",
+    "paragraph3": "I am also a self-directed learner who uses online learning tools and personal projects to hone my skills. I am committed to completing projects on time and to a high standard.",
+    "paragraph4": "I enjoyed being a Placement Software Engineer at Civica in the Belfast Office. And through my experience working with end users in past projects and as an Engineer in Civica, I have developed an interest in Azure and Forward Facing roles. But, I also really enjoyed the engineering rigour behind being an Software Engineer.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Software Engineering",
+      "Front-end Engineering",
+      "UX Designing",
+      "Visual Studio Code & Git"
     ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+    "Why2": ["Gym & powerlifting", "Guitar", "Gaming", "Videography"]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "",
+      "smallImage": "img/portfolio/filsoc.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "",
+      "smallImage": "img/portfolio/formal.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "",
+      "smallImage": "img/portfolio/queens.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "",
+      "smallImage": "img/portfolio/pwc.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "",
+      "smallImage": "img/portfolio/hkd.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "",
+      "smallImage": "img/portfolio/first-event.jpg"
     }
   ],
   "Services": [
@@ -99,34 +76,19 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/john.jpeg",
+      "text": "I had the pleasure to work with Marc on a multiple university projects. He is a responsible individual and a great team player, as well as an exceptional developer. His expertise and knowledge would add value to any team.",
+      "name": "John Hetherington, Placement Software Engineer Civica"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/ryan.jpeg",
+      "text": "Marc worked in my team as a placement Software Engineer. He was able to pick up new technologies quickly which helped make good progress with his project. Being fully remote wasn't a problem, he was pro-active in making new connections and got on very well with the team. The GeNI project we developed was a real success with positive feedback from other teams when he presented in our internal conference. I highly recommend Marc",
+      "name": "Ryan McKeever, Software Engineer Civica"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/renzo.jpeg",
+      "text": "Marc is a great programmer who can meet big deadlines in a group project. A great team player during our hackathon sessions and always had innovative ideas to work with.",
+      "name": "Lorenzo James Cueto, Software Engineer Intern at Signifyd"
     }
   ],
   "Team": [
@@ -152,12 +114,12 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Squires View, BT14 8FS",
+    "phone": "+44 7718 360109",
+    "email": "marcvillareal30@gmail.com",
+    "emailaddress": "mailto:marcvillareal30@gmail.com?subject=Recruitment Opportunities",
+    "github": "https://github.com/marcvillareal",
+    "linkedin": "https://www.linkedin.com/in/marc-vincent-villareal-585236198/"
   },
   "Features": [
     {
