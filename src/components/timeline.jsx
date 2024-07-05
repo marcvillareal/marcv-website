@@ -52,7 +52,7 @@ export const Timeline = (props) => {
           <h2>Timeline</h2>
           <p>
             From when I initially got interested into Software Engineering, to
-            my interests now in Azure, Software Engineering and IT. Checkout my
+            my interests now in Cloud, Software Engineering and IT. Checkout my
             journey so far in Software Engineering!
           </p>
         </div>
