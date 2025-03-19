@@ -44,8 +44,8 @@ Make sure you have the following installed:
 ## 📬 Contact
 Feel free to reach out:
 - **Email:** marcvillareal30@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/marc-vincent-villareal-585236198/)
-- **GitHub:** [Your GitHub](https://github.com/marcvillareal)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/marc-vincent-villareal-585236198/)
+- **GitHub:** [My GitHub](https://github.com/marcvillareal)
 
 ---
 ### 🚧 Work in Progress
