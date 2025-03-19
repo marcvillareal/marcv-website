@@ -1,16 +1,16 @@
 {
   "Header": {
     "title": "WELCOME",
-    "paragraph": "My name is Marc Villareal. I am a BEng Software Engineering Graduate from Queen's University Belfast..."
+    "paragraph": "My name is Marc Villareal. I am a BEng Software Engineer Graduate from Queen's University Belfast..."
   },
   "About": {
-    "paragraph": "I'm originally from Cavite, Philippines but my family emigrated to Belfast, Northern Ireland when I was two years old. I'm studying BEng Software Engineering at Queen's University Belfast. I was Treasurer of Queen's Filipino Society for two years and an hall of fame member for Queen's Esport's Society.",
+    "paragraph": "I'm originally from Cavite, Philippines but my family emigrated to Belfast, Northern Ireland when I was two years old. I've graduated with a BEng Software Engineering at Queen's University Belfast. I was Treasurer of Queen's Filipino Society for two years and an hall of fame member for Queen's Esport's Society.",
     "paragraph2": "I'm always looking for ways to develop myself, and I'm fascinated by new technologies and love coding. Working in a fast-paced, lively workplace has helped me enhance my teamwork and communication abilities while also providing me with customer service experience.",
     "paragraph3": "I am also a self-directed learner who uses online learning tools and personal projects to hone my skills. I am committed to completing projects on time and to a high standard.",
     "paragraph4": "I enjoyed being a Placement Software Engineer at Civica in the Belfast Office. And through my experience working with end users in past projects and as an Engineer in Civica, I have developed an interest in Cloud and Forward Facing roles. But, I also really enjoyed the engineering rigour behind being an Software Engineer.",
     "Why": [
       "Software Engineering",
-      "Front-end Engineering",
+      "Cloud Engineering",
       "UX Designing",
       "Visual Studio Code & Git"
     ],
